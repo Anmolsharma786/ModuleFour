@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+{
+  "bikeTypes": [
+    {
+      "name": "BMW",
+      "price" : 10000,
+      "image": "bmw.jpg",
+      "details": ["Racing Bike","Light Weight"]
+    },
+    {
+      "name": "Vespa",
+      "price" : 7000,
+      "image": "vespa.jpg",
+      "details":["Old Vespa","Still Working"]
+    },
+    {
+      "name": "Harley DavidSon",
+       "price" : 12000,
+      "image": "harleydavidson.jpg",
+      "details":["Heavy Bike","Free Membership in HOG"]
+    },
+    {
+      "name": "Bullet",
+       "price" : 13000,
+      "image": "bullet.jpg",
+      "details":["Heavy Bike","Free Membership in Bullet riders"]
+    },
+    {
+      "name": "Racing Bike",
+       "price" : 20000,
+      "image": "motorbikeracing.jpg",
+      "details":["light Weight Bike","Made for Racing"]
+    }
+  ]
+}
+=======
+{
+  "bikeTypes": [
+    {
+      "name": "BMW",
+      "price" : 10000,
+      "image": "bmw.jpg",
+      "details": ["Racing Bike","Light Weight"]
+    },
+    {
+      "name": "Vespa",
+      "price" : 7000,
+      "image": "vespa.jpg",
+      "details":["Old Vespa","Still Working"]
+    },
+    {
+      "name": "Harley DavidSon",
+       "price" : 12000,
+      "image": "harleydavidson.jpg",
+      "details":["Heavy Bike","Free Membership in HOG"]
+    },
+    {
+      "name": "Bullet",
+       "price" : 13000,
+      "image": "bullet.jpg",
+      "details":["Heavy Bike","Free Membership in Bullet riders"]
+    },
+    {
+      "name": "Racing Bike",
+       "price" : 20000,
+      "image": "motorbikeracing.jpg",
+      "details":["light Weight Bike","Made for Racing"]
+    }
+  ]
+}
+>>>>>>> 132a5da81a5e6db48e79bef565a01108e1645bce
